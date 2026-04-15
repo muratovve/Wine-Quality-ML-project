@@ -1,3 +1,0 @@
-cluster_label,alcohol,density,residual sugar,volatile acidity,total sulfur dioxide,sulphates,pH,quality,cluster_name
-0,9.616,0.997,10.306,0.297,170.302,0.497,3.171,5.52,higher density
-1,11.192,0.992,3.198,0.27,116.709,0.486,3.21,6.062,higher alcohol
