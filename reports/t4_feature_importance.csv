@@ -1,0 +1,17 @@
+feature,importance
+num__alcohol_density_ratio,0.41526467976790093
+num__volatile acidity,0.144436577216098
+num__free sulfur dioxide,0.12215465688982392
+num__sulfur_ratio,0.043945284073417745
+num__chlorides,0.04062804957071287
+num__fixed acidity,0.03849799013319852
+num__pH,0.03537865259305764
+num__citric acid,0.031100979855731917
+num__residual sugar,0.030921371393625045
+num__total sulfur dioxide,0.027592506605269896
+num__sulphates,0.025770541199628395
+num__alcohol,0.020280836268217854
+num__density,0.013179219494907773
+num__acidity_balance,0.00963391651968258
+cat__cluster_label_0,0.0009419065244879134
+cat__cluster_label_1,0.00027283189423885144

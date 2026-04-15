@@ -1,0 +1,13 @@
+column,dtype,non_null_count,description
+fixed acidity,float64,4898,Most acids involved with wine or fixed in the finished product.
+volatile acidity,float64,4898,Acetic acid in wine; too much can lead to an unpleasant vinegar taste.
+citric acid,float64,4898,Adds freshness and flavor to wines in small quantities.
+residual sugar,float64,4898,Amount of sugar remaining after fermentation stops.
+chlorides,float64,4898,Amount of salt in the wine.
+free sulfur dioxide,float64,4898,Free form of SO2 that prevents microbial growth and oxidation.
+total sulfur dioxide,float64,4898,Total amount of free and bound forms of SO2.
+density,float64,4898,"Density of the wine, influenced by alcohol and sugar content."
+pH,float64,4898,Describes how acidic or basic the wine is.
+sulphates,float64,4898,Additive that can contribute to sulfur dioxide gas and preservation.
+alcohol,float64,4898,Alcohol percentage by volume.
+quality,int64,4898,Sensory quality score ranging from 0 to 10.
